@@ -33,6 +33,6 @@ runtime:
 
 To let other developers discover your plugin:
 
-1. Fork [charm-community-plugin](https://github.com/CharmAIOS/charm-community-plugin)
+1. Fork [charm-community-plugin](https://github.com/charm-ai-labs/charm-community-plugin)
 2. Add your package to `memory/registry.json`
 3. Submit a Pull Request!
